@@ -1,4 +1,4 @@
-This is a GPU acceleration version for LIBSVM's cross validation
+SVM_CUDA is a GPU acceleration version for LIBSVM's cross validation
 
 To run this program, CUDA 8.0 or other CUDA versions need to be preinstalled
 
